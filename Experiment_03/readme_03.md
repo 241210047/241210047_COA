@@ -1,10 +1,54 @@
 
 # GDB Compiler
 
-Objective : This lab foucuses on the compilation of the program using gdb compiler and helps in understand the core concept of Computer architecture and also the address indexing in the system this experiment helps us in understanding the following points.
+# Objective : 
+
+This lab foucuses on the compilation of the program using gdb compiler and helps in understand the core concept of Computer architecture and also the address indexing in the system this experiment helps us in understanding the following points.
 
 * Basic GDB commands
 * Compiling C code for Stack, Queue, Linked List using gdb
+
+---
+
+
+
+# 📚 BACKGROUND STUDY
+
+The **GNU Debugger (GDB)** is a powerful tool used to debug programs written in languages like C and C++. It allows programmers to:
+
+* Execute programs line-by-line
+* Set breakpoints to pause execution
+* Inspect variable values and memory
+* Trace function calls and logic flow
+
+For debugging, programs must be compiled with the `-g` flag, which includes debugging symbols.
+
+---
+
+### 🔹 Key Concepts
+
+* **Breakpoint**: A point where execution stops for inspection
+* **Step Execution**:
+
+  * `next`: Executes next line
+  * `step`: Enters function
+* **Variable Inspection**:
+
+  * `print variable` shows current value
+
+---
+
+### 🔹 Data Structures Used
+
+* **Stack (LIFO)**: Last In First Out
+* **Queue (FIFO)**: First In First Out
+* **Linked List**: Dynamic memory structure using pointers
+
+GDB helps visualize how these structures behave internally by tracking variable changes like:
+
+* `top` in stack
+* `front/rear` in queue
+* `head` pointer in linked list
 
 ---
 
@@ -268,16 +312,50 @@ Create Node → Assign Data → Link Next → Update Head
 
 ---
 
-# Summary
 
-```text
-GDB helps track:
-✔ Variable values
-✔ Function calls
-✔ Memory changes
-✔ Program flow
-```
+# 📊 RESULT
+
+* Successfully compiled programs using:
+
+  ```bash
+  gcc -g -o test filename.c
+  ```
+
+* Executed programs inside GDB and:
+
+  * Set breakpoints at `main()` and functions
+  * Performed step-by-step execution
+  * Observed real-time changes in variables
+
+* Verified correctness of operations:
+
+  * Stack → push and pop operations updated `top` correctly
+  * Queue → enqueue and dequeue updated `front` and `rear`
+  * Linked List → insertion correctly updated `head` pointer
+
+* Debugging helped in:
+
+  * Identifying logical errors
+  * Understanding program flow clearly
 
 ---
 
-# End of README
+# 🧾 CONCLUSION
+
+* GDB is an essential debugging tool for analyzing program behavior.
+
+* It provides deep insights into:
+
+  * Execution flow
+  * Variable states
+  * Memory handling
+
+* Through this experiment:
+
+  * We gained practical experience in debugging
+  * Improved understanding of data structures
+  * Learned how to detect and fix errors efficiently
+
+* Overall, GDB enhances **program reliability and developer productivity** by enabling systematic debugging.
+
+---

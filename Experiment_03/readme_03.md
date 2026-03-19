@@ -66,7 +66,8 @@ sudo apt install build-essential gdb
 gcc --version
 gdb --version
 ```
-
+## Install Verification 
+[Install Guide](https://github.com/241210047/241210047_COA/blob/main/Experiment_03/install.png)
 
 # Compile Program with Debug Symbols
 For ubuntu/Linux 
@@ -174,6 +175,8 @@ print stack
 continue
 ```
 
+## Lab Implementation 
+[Stack Output](https://github.com/241210047/241210047_COA/blob/main/Experiment_03/stack.png)
 ---
 
 ## Stack Flow

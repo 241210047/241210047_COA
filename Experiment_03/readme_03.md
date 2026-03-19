@@ -11,7 +11,6 @@ This lab foucuses on the compilation of the program using gdb compiler and helps
 ---
 
 
-
 # 📚 BACKGROUND STUDY
 
 The **GNU Debugger (GDB)** is a powerful tool used to debug programs written in languages like C and C++. It allows programmers to:

@@ -1,20 +1,76 @@
-# COA Lab Repository
+# Computer Organization and Architecture (CSBB251) Lab Repository
 
-This repository contains all my **Computer Organization and Architecture (COA) lab experiments** implemented using Logisim Evolution.
-
----
-
-## Experiments
-
-* [Experiment 1 – Basic Logic Circuits](./Experiment_01/readme_01.md)
-* [Experiment 2 – (4 bit Ripple Adder)](./Experiment_02/readme_02.md)
-* [Experiment 3 – (GDB Complier)](./Experiment_03/readme_03.md)
+This repository contains a collection of **Computer Organization and Architecture (COA) laboratory experiments**, implemented and documented as part of academic coursework. The experiments are designed to provide a strong foundation in **digital logic design, low-level system concepts, and debugging techniques**.
 
 ---
 
-## Tool Used
+## 📂 Repository Structure
 
-* Logisim Evolution
+The experiments are organized systematically for clarity and ease of navigation:
+
+* **Experiment 01 – Basic Logic Circuits**
+  Implementation of fundamental logic gates and combinational circuits
+  🔗 [View Experiment](./Experiment_01/readme_01.md)
+
+* **Experiment 02 – 4-bit Ripple Carry Adder**
+  Design and simulation of a 4-bit adder using basic building blocks
+  🔗 [View Experiment](./Experiment_02/readme_02.md)
+
+* **Experiment 03 – GDB Debugger (Compiler Debugging)**
+  Debugging C programs using GNU Debugger (GDB)
+  🔗 [View Experiment](./Experiment_03/readme_03.md)
 
 ---
 
+## Tools & Technologies
+
+* **Logisim Evolution** – For digital circuit design and simulation
+* **GCC Compiler** – For compiling C programs
+* **GDB (GNU Debugger)** – For debugging and execution analysis
+
+---
+
+## Objectives of the Repository
+
+* To understand **digital logic design principles**
+* To implement and simulate **combinational and sequential circuits**
+* To gain hands-on experience with **low-level programming and debugging**
+* To develop a structured approach toward **problem-solving in computer architecture**
+
+---
+
+## Key Highlights
+
+* Well-structured and modular experiment documentation
+* Practical implementation of theoretical concepts
+* Step-by-step procedures for reproducibility
+* Integration of both **hardware simulation** and **software debugging tools**
+
+---
+
+## Usage
+
+1. Clone the repository:
+
+   ```bash
+   git clone <repository-link>
+   ```
+
+2. Navigate to the desired experiment folder:
+
+   ```bash
+   cd Experiment_0X
+   ```
+
+3. Open the corresponding README file for detailed instructions.
+
+---
+
+## License
+
+This repository is intended for **educational purposes only**.
+
+---
+
+
+⭐ *If you find this repository helpful, consider giving it a star!*

@@ -8,15 +8,7 @@ Objective : This lab foucuses on the compilation of the program using gdb compil
 
 ---
 
-# ⚙️ INSTALLATION & SETUP (GDB)
-
-This section explains how to install and set up **GDB** properly on your system.
-
----
-
-# Linux (Ubuntu / Debian)
-
-### ✅ Install GCC and GDB
+# Setup
 
 ```bash
 sudo apt update

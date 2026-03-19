@@ -23,6 +23,10 @@ gcc -g -gdwarf-4 filename.c -o output
 Example:
 
 ```bash
+gcc -g stack.c -o stack
+```
+
+```bash
 gcc -g -gdwarf-4 stack.c -o stack
 ```
 

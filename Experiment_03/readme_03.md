@@ -9,8 +9,13 @@ Objective : This lab foucuses on the compilation of the program using gdb compil
 ---
 
 # 1. Compile Program with Debug Symbols
+For ubuntu/Linux 
+```bash 
+gcc -g filename.c -o output
+```
 
-for Mac version>=M3/M4
+
+For Mac version>=M3/M4
 ```bash 
 gcc -g -gdwarf-4 filename.c -o output
 ```

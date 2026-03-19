@@ -66,9 +66,6 @@ sudo apt install build-essential gdb
 gcc --version
 gdb --version
 ```
-## Install Verification 
-[Install Guide](https://github.com/241210047/241210047_COA/blob/main/Experiment_03/install.png)
-
 # Compile Program with Debug Symbols
 For ubuntu/Linux 
 ```bash 
@@ -116,6 +113,8 @@ gdb ./output
 | quit                | Exit GDB               |
 
 ---
+## Compilation Verification 
+[Compilation Successful](https://github.com/241210047/241210047_COA/blob/main/Experiment_03/install.png)
 
 # DEBUGGING FLOW
 

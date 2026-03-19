@@ -29,7 +29,9 @@ The circuit was simulated using Logisim, where different combinations of binary 
 
 ##  Circuit Diagram
 
-![4-bit Ripple Carry Adder](https://github.com/241210047/241210047_COA/blob/main/Experiment_02/Lab_02.png)
+
+[🔗 View 4-bit Ripple Carry Adder](https://github.com/241210047/241210047_COA/blob/main/Experiment_02/Lab_02.png)
+
 
 ---
 

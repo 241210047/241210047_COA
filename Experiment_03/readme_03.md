@@ -174,7 +174,7 @@ print stack
 continue
 ```
 
-## Lab Implementation 
+### Lab Implementation 
 [Stack Output](https://github.com/241210047/241210047_COA/blob/main/Experiment_03/stack.png)
 ---
 

@@ -10,15 +10,15 @@ The experiments are organized systematically for clarity and ease of navigation:
 
 * **Experiment 01 – Basic Logic Circuits**
   Implementation of fundamental logic gates and combinational circuits
-  🔗 [View Experiment](./Experiment_01/readme_01.md)
+  [View Experiment](./Experiment_01/readme_01.md)
 
 * **Experiment 02 – 4-bit Ripple Carry Adder**
   Design and simulation of a 4-bit adder using basic building blocks
-  🔗 [View Experiment](./Experiment_02/readme_02.md)
+  [View Experiment](./Experiment_02/readme_02.md)
 
 * **Experiment 03 – GDB Debugger (Compiler Debugging)**
   Debugging C programs using GNU Debugger (GDB)
-  🔗 [View Experiment](./Experiment_03/readme_03.md)
+  [View Experiment](./Experiment_03/readme_03.md)
 
 ---
 

@@ -6,21 +6,26 @@
 
 ## Objective
 
-The objective of this experiment is to understand and implement basic digital logic circuits using Logisim Evolution. The experiment focuses on designing and simulating fundamental components such as multiplexers, priority encoders, and combinational logic circuits. It aims to build a strong foundation in digital logic design by analyzing how different logic gates and modules interact to produce desired outputs.
+The objective of this experiment is to understand and implement basic digital logic circuits using Logisim Evolution. The experiment focuses on designing and simulating fundamental components such as multiplexers, priority encoders, and combinational logic circuits.
 
 ---
 
 ## Background Study
 
-Digital logic circuits form the backbone of computer architecture and are used to perform logical operations on binary inputs. Basic components such as AND, OR, and NOT gates are combined to form more complex circuits like multiplexers and encoders. A multiplexer (MUX) is a combinational circuit that selects one input from multiple inputs based on select lines and forwards it to the output. Similarly, a priority encoder is used to encode multiple inputs into a binary format, giving priority to the highest-order input.
+Digital logic circuits form the backbone of computer architecture and are used to perform logical operations on binary inputs. Basic components such as AND, OR, and NOT gates are combined to form more complex circuits like multiplexers and encoders. 
+A MUX is a combinational circuit that selects one input from multiple inputs based on select lines and forwards it to the output.
+A priority encoder is used to encode multiple inputs into a binary format, giving priority to the highest-order input.
 
-Logisim Evolution is a digital circuit simulation tool that allows users to design, test, and analyze such circuits visually. It provides a user-friendly interface where components can be connected, and their behavior can be observed in real-time. This makes it an effective tool for learning and experimenting with digital systems.
+Logisim Evolution is a digital circuit simulation tool that allows users to design, test, and analyze such circuits visually. It provides a user-friendly interface where components can be connected, and their behavior can be observed in real-time.
 
 ---
 
 ## Experiment Description
 
-In this experiment, various digital circuits were designed and simulated using Logisim. A multiplexer was implemented to select inputs based on control signals, and a hierarchical multiplexer design was created to handle multiple input lines efficiently. A priority encoder circuit was also designed to convert multiple input signals into a coded output. Additionally, combinational logic circuits using OR gates were implemented to understand signal flow and logical operations. The outputs were verified by changing input values and observing the corresponding results.
+In this experiment, various digital circuits were designed and simulated using Logisim. 
+A multiplexer(8*1) was implemented to select inputs based on control signals, and a hierarchical multiplexer design was created to handle multiple input lines efficiently. 
+A priority encoder(8*3) circuit was also designed to convert multiple input signals into a coded output. 
+Additionally, combinational logic circuits using OR gates were implemented to understand signal flow and logical operations. The outputs were verified by changing input values and observing the corresponding results.
 
 ---
 

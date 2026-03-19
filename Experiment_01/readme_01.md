@@ -31,7 +31,8 @@ Additionally, combinational logic circuits using OR gates were implemented to un
 ---
 
 ##  Circuit Diagram
-[![Circuit Screenshot](./Lab_01.png)](https://github.com/241210047/241210047_COA/blob/main/Experiment_01/Lab_01.png)
+
+[Basic Logic Circuit Designs](https://github.com/241210047/241210047_COA/blob/main/Experiment_01/Lab_01.png)
 
 
 ---

@@ -1,11 +1,10 @@
 
 # GDB Compiler
 
-This README provides:
+Objective : This lab foucuses on the compilation of the program using gdb compiler and helps in understand the core concept of Computer architecture and also the address indexing in the system this experiment helps us in understanding the following points.
 
 * Basic GDB commands
-* Example C code for Stack, Queue, Linked List
-* Step-by-step debugging flow using GDB
+* Compiling C code for Stack, Queue, Linked List using gdb
 
 ---
 

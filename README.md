@@ -66,11 +66,3 @@ The experiments are organized systematically for clarity and ease of navigation:
 
 ---
 
-## License
-
-This repository is intended for **educational purposes only**.
-
----
-
-
-⭐ *If you find this repository helpful, consider giving it a star!*

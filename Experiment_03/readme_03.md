@@ -11,7 +11,7 @@ This lab foucuses on the compilation of the program using gdb compiler and helps
 ---
 
 
-## BACKGROUND STUDY
+## Background Study
 
 The **GNU Debugger (GDB)** is a powerful tool used to debug programs written in languages like C and C++. It allows programmers to:
 
@@ -242,9 +242,11 @@ continue
 ---
 ### Lab Implementation 
 [Queue_1](https://github.com/241210047/241210047_COA/blob/main/Experiment_03/queue.png)
+---
 [Queue_2](https://github.com/241210047/241210047_COA/blob/main/Experiment_03/queue_2.png)
+---
 [Queue_3](https://github.com/241210047/241210047_COA/blob/main/Experiment_03/queue_result.png)
-
+---
 ## Queue Flow
 
 ```text

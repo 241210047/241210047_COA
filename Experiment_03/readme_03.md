@@ -1,5 +1,5 @@
 
-# Experiment 3 : GDB Compiler
+# Experiment 3 
 
 ## Objective
 

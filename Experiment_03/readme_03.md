@@ -11,7 +11,7 @@ This lab foucuses on the compilation of the program using gdb compiler and helps
 ---
 
 
-# 📚 BACKGROUND STUDY
+# BACKGROUND STUDY
 
 The **GNU Debugger (GDB)** is a powerful tool used to debug programs written in languages like C and C++. It allows programmers to:
 
@@ -24,7 +24,7 @@ For debugging, programs must be compiled with the `-g` flag, which includes debu
 
 ---
 
-### 🔹 Key Concepts
+### Key Concepts
 
 * **Breakpoint**: A point where execution stops for inspection
 * **Step Execution**:
@@ -37,7 +37,7 @@ For debugging, programs must be compiled with the `-g` flag, which includes debu
 
 ---
 
-### 🔹 Data Structures Used
+### Data Structures Used
 
 * **Stack (LIFO)**: Last In First Out
 * **Queue (FIFO)**: First In First Out
@@ -60,7 +60,7 @@ sudo apt install build-essential gdb
 
 ---
 
-### ✅ Verify Installation
+### Verify Installation
 
 ```bash
 gcc --version
@@ -312,7 +312,7 @@ Create Node → Assign Data → Link Next → Update Head
 ---
 
 
-# 📊 RESULT
+# RESULT
 
 * Successfully compiled programs using:
 
@@ -339,7 +339,7 @@ Create Node → Assign Data → Link Next → Update Head
 
 ---
 
-# 🧾 CONCLUSION
+# CONCLUSION
 
 * GDB is an essential debugging tool for analyzing program behavior.
 

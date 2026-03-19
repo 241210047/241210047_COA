@@ -1,17 +1,17 @@
 
-# 🧪 COA Lab – Experiment 2
+# Experiment 2
 
 ## Design of 4-bit Ripple Carry Adder and Analysis of Propagation Delay
 
 ---
 
-## 📌 Objective
+##  Objective
 
 The objective of this experiment is to design and simulate a **4-bit Ripple Carry Adder (RCA)** using basic logic gates in Logisim Evolution and to analyze the propagation delay associated with carry generation and output computation. The experiment aims to understand how carry propagates through multiple full adders and how it affects the overall speed of the circuit.
 
 ---
 
-## 📖 Background Study
+## Background Study
 
 A Ripple Carry Adder is a combinational circuit used to perform binary addition of multi-bit numbers. It is constructed by cascading multiple full adders, where the carry output of one stage becomes the carry input of the next stage. In a 4-bit Ripple Carry Adder, four full adders are connected in series to add two 4-bit binary numbers along with an initial carry input.
 
@@ -19,7 +19,7 @@ Each full adder computes a sum and a carry based on its inputs. However, the maj
 
 ---
 
-## ⚙️ Circuit Description
+## Circuit Description
 
 In this experiment, a 4-bit Ripple Carry Adder was implemented using basic logic gates such as AND, OR, and XOR. Each stage of the circuit represents a full adder, where two input bits and a carry input are processed to generate a sum and carry output. The carry output of each stage is connected to the next stage, forming a chain-like structure.
 
@@ -27,9 +27,9 @@ The circuit was simulated using Logisim, where different combinations of binary 
 
 ---
 
-## 🖼️ Circuit Diagram
+##  Circuit Diagram
 
-![4-bit Ripple Carry Adder](./screenshots/ripple_adder.png)
+![4-bit Ripple Carry Adder](./Lab_02.png)
 
 ---
 

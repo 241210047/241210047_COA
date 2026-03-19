@@ -8,7 +8,32 @@ Objective : This lab foucuses on the compilation of the program using gdb compil
 
 ---
 
-# 1. Compile Program with Debug Symbols
+# ⚙️ INSTALLATION & SETUP (GDB)
+
+This section explains how to install and set up **GDB** properly on your system.
+
+---
+
+# Linux (Ubuntu / Debian)
+
+### ✅ Install GCC and GDB
+
+```bash
+sudo apt update
+sudo apt install build-essential gdb
+```
+
+---
+
+### ✅ Verify Installation
+
+```bash
+gcc --version
+gdb --version
+```
+
+
+# Compile Program with Debug Symbols
 For ubuntu/Linux 
 ```bash 
 gcc -g filename.c -o output
@@ -32,7 +57,7 @@ gcc -g -gdwarf-4 stack.c -o stack
 
 ---
 
-# 2. Start GDB
+# Start GDB
 
 ```bash
 gdb ./output
@@ -40,7 +65,7 @@ gdb ./output
 
 ---
 
-# 3. Important GDB Commands
+# Important GDB Commands
 
 | Command             | Description            |
 | ------------------- | ---------------------- |

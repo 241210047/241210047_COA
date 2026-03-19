@@ -57,8 +57,3 @@ The 4-bit Ripple Carry Adder was successfully designed and simulated using Logis
 
 This experiment provided a clear understanding of how multi-bit addition is performed using Ripple Carry Adders and how carry propagation affects the speed of computation. It emphasized the limitations of RCA in terms of delay and the need for more efficient adder designs in high-speed systems.
 
----
-
-## 👨‍💻 Author
-
-Harshit

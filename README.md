@@ -20,6 +20,14 @@ The experiments are organized systematically for clarity and ease of navigation:
   Debugging C programs using GNU Debugger (GDB)
   [View Experiment](./Experiment_03/readme_03.md)
 
+* **Experiment 04 – 8-bit Shift Register using Flip-Flops**
+  Design a 8-bit Shift Register using D Flip Flops
+  [View Experiment](./Experiment_04/readme_04.md)
+
+* **Experiment 05 – Addressing Modes ** 
+  Executing different kinds of Addressing modes using gdb compiler
+  [View Experiment](./Experiment_05/readme_05.md)
+
 ---
 
 ## Tools & Technologies

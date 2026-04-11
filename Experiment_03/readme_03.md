@@ -114,9 +114,6 @@ gdb ./output
 | quit                | Exit GDB               |
 
 ---
-## Compilation Verification 
-[Compilation Successful](https://github.com/241210047/241210047_COA/blob/main/Experiment_03/install.png)
-
 # DEBUGGING FLOW
 
 ```text
@@ -175,8 +172,6 @@ print stack
 continue
 ```
 
-### Lab Implementation 
-[Stack Output](https://github.com/241210047/241210047_COA/blob/main/Experiment_03/stack.png)
 
 ---
 
@@ -241,14 +236,9 @@ continue
 ```
 
 ---
-### Lab Implementation 
-[Queue_1](https://github.com/241210047/241210047_COA/blob/main/Experiment_03/queue.png)
-
-[Queue_2](https://github.com/241210047/241210047_COA/blob/main/Experiment_03/queue_2.png)
-
-[Queue_3](https://github.com/241210047/241210047_COA/blob/main/Experiment_03/queue_result.png)
 
 ## Queue Flow
+
 
 ```text
 ENQUEUE → Insert at rear

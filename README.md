@@ -24,7 +24,7 @@ The experiments are organized systematically for clarity and ease of navigation:
   Design a 8-bit Shift Register using D Flip Flops
   [View Experiment](./Experiment_04/readme_04.md)
 
-* **Experiment 05 – Addressing Modes ** 
+* **Experiment 05 – Addressing Modes** 
   Executing different kinds of Addressing modes using gdb compiler
   [View Experiment](./Experiment_05/readme_05.md)
 

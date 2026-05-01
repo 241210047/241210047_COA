@@ -61,7 +61,7 @@ The experiments are organized systematically for clarity and ease of navigation:
 1. Clone the repository:
 
    ```bash
-   git clone repository-link](https://github.com/241210047/241210047_COA.git
+   git clone https://github.com/241210047/241210047_COA.git
    ```
 
 2. Navigate to the desired experiment folder:

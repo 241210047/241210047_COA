@@ -61,13 +61,13 @@ The experiments are organized systematically for clarity and ease of navigation:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-link>
+   git clone repository-link](https://github.com/241210047/241210047_COA.git
    ```
 
 2. Navigate to the desired experiment folder:
 
    ```bash
-   cd Experiment_0X
+   cd Experiment_01
    ```
 
 3. Open the corresponding README file for detailed instructions.
